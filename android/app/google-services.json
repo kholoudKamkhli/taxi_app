@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "246663366984",
+    "project_id": "aber-665ab",
+    "storage_bucket": "aber-665ab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:246663366984:android:d90a2836deb2c1a9f10b7d",
+        "android_client_info": {
+          "package_name": "com.driving.aber"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "246663366984-jfi2n7kmtuhdf8a752e27arpngh2n7i4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.driving.aber",
+            "certificate_hash": "c449e723f7330a380db4f0b41cac444fb6786ae7"
+          }
+        },
+        {
+          "client_id": "246663366984-6tq71tg8m2qtk8291d3cgltmkqiunmrc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCINjSgb2zfZG6eE3jkKqEswR-baHGXejs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "246663366984-6tq71tg8m2qtk8291d3cgltmkqiunmrc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "246663366984-mv5ppgg1a16prpi5mfs3stov2akuk9cg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.taxiApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

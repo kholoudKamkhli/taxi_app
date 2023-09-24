@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Aber</string>
+    <string name="facebook_app_id">922460778819999</string>
+    <string name="fb_login_protocol_scheme">91d5954a3e1844b221dbfa6b630ce6fa</string>
+    <string name="facebook_client_token">56789</string>
+</resources>
